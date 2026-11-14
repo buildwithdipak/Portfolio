@@ -106,7 +106,6 @@ nav a{color:var(--mist);transition:color .25s}nav a:hover{color:var(--gold-hi)}
 .award-org{color:var(--mist);margin:0;font-size:11px}
 .star{font-size:40px;color:var(--gold)}
 
-
 .contact{padding:130px 0 50px}
 .contact-title{margin:70px 0 120px}
 .contact-title h2{font:400 clamp(44px,6vw,92px)/1 var(--serif);margin:0 0 8px;color:var(--mist)}
